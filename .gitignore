@@ -3,6 +3,7 @@ hotspot_output/
 
 # Python
 __pycache__/
+.cache/
 *.py[cod]
 *$py.class
 *.so
