@@ -1,4 +1,4 @@
-# Shane's Hotspot Analyzer
+# Git Detective
 <p align="center">
   <img src="columbo-simplified.png" alt="Just One More Thing..." width="200">
 </p>
